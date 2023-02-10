@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "go-finance",
+    "slug": "go-finance",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#5e17eb"
+      },
+      "package": "GoFinances.com"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#5e17eb",
+      "resizeMode": "cover"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2a2133a-64c9-4f31-b24c-d8b8dcb22cec"
+      }
+    }
+  }
+}
